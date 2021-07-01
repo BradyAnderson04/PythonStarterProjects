@@ -1,0 +1,1 @@
+print(('Reaction is catalyzed by fluorite and exposure to ultraviolet light.')[44])
